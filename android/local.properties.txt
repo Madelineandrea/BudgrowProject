@@ -1,0 +1,1 @@
+sdk.dir=C:\\Users\\madel\\AppData\\Local\\Android\\Sdk
